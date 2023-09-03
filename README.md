@@ -1,6 +1,4 @@
 
-### Hi there 👋 i am Lucas
+<h1>Olá, eu sou Lucas Souza 👋</h1>
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Flutter/React
+<!-- ![Image alt text](teste.svg). -->
