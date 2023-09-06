@@ -1,3 +1,3 @@
-<h1>Olá, eu sou Lucas Souza 👋</h1>
+<h1>Hello! I am Lucas Souza, from Brazil👋</h1>
 
-<!-- ![Image alt text](teste.svg). -->
+![Image alt text](https://github-metrics-api.vercel.app/api/profile).
